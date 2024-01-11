@@ -13,10 +13,10 @@ pip install requests-cache retry-requests numpy pandas
 ```
  
 ## Testing the application
-- Load root folder containing db and ICA in Vscode (recommended)
+- Load root folder containing database and weather_data_plotter.py in Vscode (recommended)
 - From the root folder run:
  ```
-py ICA/phase_3.py
+py weather_data_plotter.py
 ```
 - You are presented with a UI to perform common operations
 
